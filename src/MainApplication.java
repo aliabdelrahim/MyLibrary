@@ -6,6 +6,7 @@ public class MainApplication {
 		String[] livres = {};
 		int [] emprunts = {};
 				
+		System.out.println(membres);
 	}
 
 }
