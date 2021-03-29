@@ -1,6 +1,6 @@
 package be.project.mylibrary;
 
-public class MainApplication {
+public class Main {
 
 	public static void main(String[] args) {
 		String[] membres = {};
